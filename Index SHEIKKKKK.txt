@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<!-- Created By SHEIK -->
+<html lang="en">
+<head>
+   <title>PORTFOLIO</title>
+</head>
+<body>
+    <link rel="stylesheet" href="./style.css">
+<h1>MY PORTFOLIO</h1>
+
+    <div class="scroll-up-btn">
+        <i class="fas fa-angle-up"></i>
+    </div>
+    <nav class="navbar">
+        <div class="max-width">
+            <div class="logo"><a href="#">Port<span>folio</span></a></div>
+            <ul class="menu">
+                <li><a href="#home" class="menu-btn"><font color='white'>Home</font></a></li>
+                <li><a href="#about" class="menu-btn"><font color='white'>About</font></a></li>
+                <li><a href="#education" class="menu-btn"><font color='white'>Education</font></a></li>
+                <li><a href="#skills" class="menu-btn"><font color='white'>Skills</font></a></li>
+                
+            </ul>
+            <div class="menu-btn">
+                <i class="fas fa-bars"></i>
+            </div>
+        </div>
+    </nav>
+
+    <!-- home section start -->
+    <section class="home" id="home">
+        <div class="max-width">
+            <div class="home-content">
+                <div class="text-1">
+                    <h3>Welcome All</h3></p><h1>I'm<span>Mushriya</span></h1></div>
+                
+            </div>
+        </div>
+    </section>
+
+    <!-- about section start -->
+    <section class="about" id="about">
+        <div class="max-width">
+            <h2 class="title">About me</h2>
+            <div class="about-content">
+                <div class="column left">
+                    
+                </div>
+                <div class="column right">
+                    <div class="text">ME<span>mushriya</span> and I'm BCA Student</div>
+                    <p>of MUSLIM ARTS COLLEGE</p><p>my father's name is mujeeb rahman</p>
+<p>DOB:19.4.2003</p><p>This is my finalyear,preparing myself to build my profile strong and professional</p><p> my ambition is to be a softwaredeveloper</p>
+                
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Educations section start -->
+    <section class="education" id="education">
+        <div class="max-width">
+            <h2 class="title">My Educations</h2>
+            <div class="serv-content">
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-paint-brush"></i>
+                        <div class="text">studying BCA</div>
+                        <p>bachelor of computer application from 2021</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-chart-line"></i>
+                        <div class="text">Completed HSC </div>
+                        <p>in 2021</p>
+                    </div>
+                </div>
+                <div class="card">
+                    <div class="box">
+                        <i class="fas fa-code"></i>
+                        <div class="text">completed SSLC</div>
+                        <p>in 2019</p>
+                    </div>
+                </div>
+               </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- skills section start -->
+    <section class="skills" id="skills">
+        <div class="max-width">
+            <h2 class="title">My skills</h2>
+            <div class="skills-content">
+                <div class="column left">
+                    <div class="text">My creative skills & experiences.</div>
+                    <p>I have good skills like listening,</p><p>problem solving,</p><p>communication skills,</p><p>creativity,</p><p>time management and team work</p>
+                </div>
+            </div>
+                
+        </div>
+    </section>
+  
+</body>
+</html>
